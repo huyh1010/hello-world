@@ -2,7 +2,7 @@
 
 A learning project @CoderSchool.vn
 
-### **[Student : ABC](https://www.coderschool.vn/vi/)**
+### **Student : ABC**
 
 ### **Features** :
 
